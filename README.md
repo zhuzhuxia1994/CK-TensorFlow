@@ -7,3 +7,4 @@ model.py中保存着双流卷积神经网络的模型，这是自己搭建的一
 
 train.py是训练，test.py是测试
 
+数据库地址：链接：https://pan.baidu.com/s/1boBvOBX 密码：sem9
